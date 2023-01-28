@@ -1,0 +1,402 @@
+<?xml version="1.0"?>
+<BASES><Realisateurs><Realisateur ID="r01">
+            <Nom>Carles</Nom>
+            <Prenom>Pierre</Prenom>
+        </Realisateur><Realisateur ID="r02">
+            <Nom>Makhmalbaf</Nom>
+            <Prenom>Samira </Prenom>
+        </Realisateur><Realisateur ID="r03">
+            <Nom>Lelouch</Nom>
+            <Prenom>Claude</Prenom>
+        </Realisateur><Realisateur ID="r04">
+            <Nom>Chahine</Nom>
+            <Prenom>Youssef</Prenom>
+        </Realisateur><Realisateur ID="r05">
+            <Nom>Tanovic</Nom>
+            <Prenom>Danis</Prenom>
+        </Realisateur><Realisateur ID="r06">
+            <Nom>Ouedraogo</Nom>
+            <Prenom>Idrissa</Prenom>
+        </Realisateur><Realisateur ID="r07">
+            <Nom>Loach</Nom>
+            <Prenom>Ken</Prenom>
+        </Realisateur><Realisateur ID="r08">
+            <Nom>Iñárritu</Nom>
+            <Prenom>Alejandro Gonzáles</Prenom>
+        </Realisateur><Realisateur ID="r09">
+            <Nom>Gitai</Nom>
+            <Prenom>Amos</Prenom>
+        </Realisateur><Realisateur ID="r10">
+            <Nom>Nair</Nom>
+            <Prenom>Mira</Prenom>
+        </Realisateur><Realisateur ID="r11">
+            <Nom>Penn</Nom>
+            <Prenom>Sean</Prenom>
+        </Realisateur><Realisateur ID="r12">
+            <Nom>Imamura</Nom>
+            <Prenom>Shohei</Prenom>
+        </Realisateur><Realisateur ID="r13">
+            <Nom>Chaiklin</Nom>
+            <Prenom>Rebecca</Prenom>
+        </Realisateur><Realisateur ID="r14">
+            <Nom>Leitch</Nom>
+            <Prenom>Donovan</Prenom>
+        </Realisateur><Realisateur ID="r16">
+            <Nom>Pittard</Nom>
+            <Prenom>Eric</Prenom>
+        </Realisateur><Realisateur ID="r17">
+            <Nom>Deville</Nom>
+            <Prenom>Michel</Prenom>
+        </Realisateur><Realisateur ID="r18">
+            <Nom>Greengrass</Nom>
+            <Prenom>Paul</Prenom>
+        </Realisateur></Realisateurs><Acteurs><Acteur ID="a01">
+                <Nom>Carles</Nom>
+                <Prenom>Pierre</Prenom>
+            </Acteur><Acteur ID="a02">
+                <Nom>Bourdieu</Nom>
+                <Prenom>Pierre</Prenom>
+            </Acteur><Acteur ID="a03">
+                <Nom>Schneidermann</Nom>
+                <Prenom>Daniel</Prenom>
+            </Acteur><Acteur ID="a04">
+                <Nom> Hoffman</Nom>
+                <Prenom>Philip Seymour</Prenom>
+            </Acteur><Acteur ID="a05">
+                <Nom>O'Donnell</Nom>
+                <Prenom>Rosie</Prenom>
+            </Acteur><Acteur ID="a06">
+                <Nom>Chomsky</Nom>
+                <Prenom>Noam</Prenom>
+            </Acteur><Acteur ID="a07">
+                <Nom> Moore</Nom>
+                <Prenom>Michael</Prenom>
+            </Acteur><Acteur ID="a08">
+                <Nom>Nader</Nom>
+                <Prenom>Ralph</Prenom>
+            </Acteur><Acteur ID="a09">
+                <Nom>Compston</Nom>
+                <Prenom>Martin</Prenom>
+            </Acteur><Acteur ID="a10">
+                <Nom>Ruane</Nom>
+                <Prenom>William</Prenom>
+            </Acteur><Acteur ID="a11">
+                <Nom>Fulton</Nom>
+                <Prenom>Annmarie</Prenom>
+            </Acteur><Acteur ID="a12">
+                <Nom>Abercromby</Nom>
+                <Prenom>Michelle</Prenom>
+            </Acteur><Acteur ID="a13">
+                <Nom>Benfodil</Nom>
+                <Prenom>Farid</Prenom>
+            </Acteur><Acteur ID="a14">
+                <Nom>Benguella</Nom>
+                <Prenom>Kader</Prenom>
+            </Acteur><Acteur ID="a15">
+                <Nom>Mekouchech</Nom>
+                <Prenom>Farid</Prenom>
+            </Acteur><Acteur ID="a16">
+                <Nom>Mekouchech</Nom>
+                <Prenom>Kheira</Prenom>
+            </Acteur><Acteur ID="a17">
+                <Nom>Zebda</Nom>
+            </Acteur><Acteur ID="a18">
+                <Nom>Abkarian </Nom>
+                <Prenom>Simon</Prenom>
+            </Acteur><Acteur ID="a19">
+                <Nom>Azabal</Nom>
+                <Prenom>Lubna</Prenom>
+            </Acteur><Acteur ID="a20">
+                <Nom>Breitman</Nom>
+                <Prenom>Zabou</Prenom>
+            </Acteur><Acteur ID="a21">
+                <Nom>Courau</Nom>
+                <Prenom>Clotilde</Prenom>
+            </Acteur><Acteur ID="a22">
+                <Nom>Gayet</Nom>
+                <Prenom>Julie</Prenom>
+            </Acteur><Acteur ID="a23">
+                <Nom>Merhar</Nom>
+                <Prenom>Stanislas </Prenom>
+            </Acteur><Acteur ID="a24">
+                <Nom>Podalydès</Nom>
+                <Prenom>Denis</Prenom>
+            </Acteur><Acteur ID="a25">
+                <Nom>Elbaz</Nom>
+                <Prenom>Vincent</Prenom>
+            </Acteur><Acteur ID="a26">
+                <Nom>Zidi</Nom>
+                <Prenom>Malik</Prenom>
+            </Acteur><Acteur ID="a27">
+                <Nom>Nesbitt</Nom>
+                <Prenom>James</Prenom>
+            </Acteur><Acteur ID="a28">
+                <Nom>Duddy</Nom>
+                <Prenom>Declan</Prenom>
+            </Acteur><Acteur ID="a29">
+                <Nom>Pigott-Smith</Nom>
+                <Prenom>Tim</Prenom>
+            </Acteur><Acteur ID="a30">
+                <Nom>Farrell</Nom>
+                <Prenom>Nicholas</Prenom>
+            </Acteur><Acteur ID="a31">
+                <Nom>McSorley</Nom>
+                <Prenom>Gerard</Prenom>
+            </Acteur><Acteur ID="a32">
+                <Nom>Clarke</Nom>
+                <Prenom>Kathy Kiera</Prenom>
+            </Acteur></Acteurs><FILMS>
+    <Film ID="f01" Langue="fr" Affiche="http://www.homme-moderne.org/enfinpris/images/affiche.gif" Realisateur="r01" Acteur="a01 a02 a03"><Titre>Enfin pris ?</Titre><Genre>Documentaire</Genre><Pays>France</Pays><Duree>1h30</Duree><Resume>
+            <Titre>Daniel Schneidermann dans le viseur du franc-tireur Pierre Carles.</Titre>
+            <Texte> Ce nouveau film opère une synthèse. Il part de Bourdieu, coupant à l'éloge
+                funèbre (le sociologue est mort en janvier dernier) pour mieux se fixer sur...
+                Daniel Schneidermann. Le producteur-animateur d'Arrêt sur images avait, à la suite
+                des grèves de l'hiver 1995, convié Bourdieu face à un panel de ténors cathodiques -
+                Durand et surtout Cavada ne sortent pas grandis des extraits rediffusés. Bourdieu,
+                auteur du pamphlet Sur la télévision, avait ensuite boudé. On voit Carles, en 1997,
+                titiller son vieux copain Schneidermann en lui proposant de réinviter Bourdieu.
+                Schneidermann rit jaune. Quelques années auparavant, Carles et lui avaient un projet
+                commun de documentaire "animalier" sur le comportement des élites. L'affaire fit
+                flop. Leurs chemins divergeant, l'un, arrivé, s'est retrouvé dans le collimateur de
+                l'autre, éternel franc-tireur. On n'est jamais plus critique et sévère qu'avec celui
+                qu'on aurait pu devenir. Carles assume tellement sa fixette sur Schneidermann qu'il
+                en vient à se mettre en scène lui-même allongé sur le divan d'un psy - un de ses
+                anciens profs. Ce papy Freud au perpétuel sourire à poil blanc distille d'une voix
+                aiguë son fluet diagnostic. Sa présence comique est d'un effet irrésistible, on
+                n'est pas loin de Woody Allen ou de Nanni Moretti. Cette longue séquence donne aussi
+                la clé du film ­ et, à rebours, des précédents : le petit Caméscope où défilent les
+                images de l'autre (Schneidermann), censées prouver sa schizophrénie, est un miroir.
+                Pierre Carles finit par rire comme un gosse, et nous avec, de s'y voir au fond en
+                quête de lui-même. Chez celui qui s'échappe, il y a toujours le secret désir d'être
+                pris. </Texte>
+        </Resume><Acteurs>
+            <Acteur ID="a01">
+                <Nom>Carles</Nom>
+                <Prenom>Pierre</Prenom>
+            </Acteur>
+            <Acteur ID="a02">
+                <Nom>Bourdieu</Nom>
+                <Prenom>Pierre</Prenom>
+            </Acteur>
+            <Acteur ID="a03">
+                <Nom>Schneidermann</Nom>
+                <Prenom>Daniel</Prenom>
+            </Acteur>
+        </Acteurs><Image>
+            <Nom>Carles</Nom>
+            <Prenom>Pierre</Prenom>
+        </Image><Montage>
+            <Nom>Bour</Nom>
+            <Prenom>Gilles</Prenom>
+        </Montage><Montage>
+            <Nom>Painchault</Nom>
+            <Prenom>Claire</Prenom>
+        </Montage><Montage>
+            <Nom>Sasia</Nom>
+            <Prenom>Bernard</Prenom>
+        </Montage><Producteur>C-P Productions</Producteur></Film>
+    <Film ID="f02" Langue="uk" Affiche="https://m.media-amazon.com/images/M/MV5BMzkxMjI4MjYtNjYzMC00ZTE1LWJlNjAtNWIyYzU3Njc3ODRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" Realisateur="r02 r03 r04 r05 r06 r07 r08 r09 r10 r11 r12" Acteur=""><Titre>11'09''01</Titre><Genre>Retour sur actualité</Genre><Pays>France</Pays><Duree>2h10</Duree><Resume>
+            <Texte> Onze cinéastes de renom invités à exprimer en onze minutes leur manière de se
+                souvenir, un ans après, du drame qui frappa l?Amérique le 11/09/2001. Un patchwork
+                de onze regards aux références politiques, religieuses, culturelles différentes,
+                onze styles venus de tous les points du globe comme le rappelle l?introduction de
+                chaque court métrage. </Texte>
+        </Resume><Producteur>Galaté Films-StudioCanal</Producteur></Film>
+    <Film ID="f03" Langue="vo" Affiche="https://members.loria.fr/YBoniface/html/xml/file/LastParty2000.jpg" Realisateur="r13 r14" Acteur="a04 a05 a06 a07 a08"><Titre>Last Party 2000</Titre><Genre>Documentaire</Genre><Pays>Américain</Pays><Duree>1h37</Duree><Resume>
+            <Texte>L'année 2000 fut une année critique pour le système démocratique américain. Après
+                des élections présidentielles tirées par les cheveux, la Cour Supre^me tranche et
+                donne le pouvoir au parti républicain. Un retournement sans précédent pour une
+                Amérique régie depuis 8 ans par le parti démocrate. Last Party 2000 retrace ce
+                moment unique. </Texte>
+        </Resume><Acteurs>
+            <Acteur ID="a04">
+                <Nom> Hoffman</Nom>
+                <Prenom>Philip Seymour</Prenom>
+            </Acteur>
+            <Acteur ID="a05">
+                <Nom>O'Donnell</Nom>
+                <Prenom>Rosie</Prenom>
+            </Acteur>
+            <Acteur ID="a06">
+                <Nom>Chomsky</Nom>
+                <Prenom>Noam</Prenom>
+            </Acteur>
+            <Acteur ID="a07">
+                <Nom> Moore</Nom>
+                <Prenom>Michael</Prenom>
+            </Acteur>
+            <Acteur ID="a08">
+                <Nom>Nader</Nom>
+                <Prenom>Ralph</Prenom>
+            </Acteur>
+        </Acteurs><Montage>
+            <Nom>Hoffmann</Nom>
+            <Prenom>Sabine</Prenom>
+        </Montage><Producteur>Dajota Group Ltd</Producteur></Film>
+    <Film ID="f04" Langue="uk" Affiche="https://www.les400coups.org/affiches/bigger/sweetsixteen.jpg" Realisateur="r07" Acteur="a09 a10 a11 a12"><Titre>Sweet Sixteen</Titre><Scenario>
+            <Nom>Laverty</Nom>
+            <Prenom>Paul</Prenom>
+        </Scenario><Genre>réalisme politique</Genre><Pays>Britannique</Pays><Duree>1h46</Duree><Resume>
+            <Texte> Dans quelques jours, Liam aura 16 ans. Sa mère, Jean, qui est en prison, doit
+                être libérée à temps pour l'anniversaire de son fils. Liam compte bien saisir
+                l'occasion pour que, cette fois enfin, tout se passe bien. Il rêve d'une famille
+                comme il n'en a jamais eue et redoute l'influence de son grand-père, comme celle de
+                Stan, le compagnon de Jean. Il veut un foyer, un endroit sûr pour sa mère, sa soeur
+                Chantelle et lui-même. Encore faut-il trouver de l'argent et, pour un adolescent
+                fauché, ce n'est pas une mince affaire. Avec ses copains, Liam enchaîne les combines
+                mais, rapidement, les ennuis commencent. Liam sent bien que la situation devient
+                grave et qu'il perd pied. Il faudrait partir mais peut-être est-il déjà trop tard. </Texte>
+        </Resume><Acteurs>
+            <Acteur ID="a09">
+                <Nom>Compston</Nom>
+                <Prenom>Martin</Prenom>
+            </Acteur>
+            <Acteur ID="a10">
+                <Nom>Ruane</Nom>
+                <Prenom>William</Prenom>
+            </Acteur>
+            <Acteur ID="a11">
+                <Nom>Fulton</Nom>
+                <Prenom>Annmarie</Prenom>
+            </Acteur>
+            <Acteur ID="a12">
+                <Nom>Abercromby</Nom>
+                <Prenom>Michelle</Prenom>
+            </Acteur>
+        </Acteurs><Palmares>meilleur scénario au 55ème Festival de Cannes</Palmares><Image>
+            <Nom>Ackroyd</Nom>
+            <Prenom>Barry</Prenom>
+        </Image><Montage>
+            <Nom>Morris</Nom>
+            <Prenom>Jonathan</Prenom>
+        </Montage><Producteur>Sixteen Films, Road Movie filmproduktion et Tornasol/Altafilm</Producteur></Film>
+    <Film ID="f05" Langue="fr" Affiche="http://fr.web.img5.acsta.net/c_215_290/medias/nmedia/00/02/54/16/affiche.jpg" Realisateur="r16" Acteur="a13 a14 a15 a16 a17"><Titre>Le bruit, l'odeur et quelques étoiles</Titre><Genre>Drame</Genre><Pays>France</Pays><Duree>1h50</Duree><Resume>
+            <Texte>Le jeune Pipo a été abattu par un flic lors d'une tentative de vol. Résultat : 4
+                jours d'émeutes dans la cité. Lorsque l'émotion retombe, un groupe de jeunes,
+                parallèlement à l'enquête judiciaire, tente de réclamer justice. Puis, lassés de
+                toutes les promesses non tenues, ils entrent dans une spirale de folie qui va les
+                conduire de la cité à la prison. </Texte>
+        </Resume><Acteurs>
+            <Acteur ID="a13">
+                <Nom>Benfodil</Nom>
+                <Prenom>Farid</Prenom>
+            </Acteur>
+            <Acteur ID="a14">
+                <Nom>Benguella</Nom>
+                <Prenom>Kader</Prenom>
+            </Acteur>
+            <Acteur ID="a15">
+                <Nom>Mekouchech</Nom>
+                <Prenom>Farid</Prenom>
+            </Acteur>
+            <Acteur ID="a16">
+                <Nom>Mekouchech</Nom>
+                <Prenom>Kheira</Prenom>
+            </Acteur>
+            <Acteur ID="a17">
+                <Nom>Zebda</Nom>
+            </Acteur>
+        </Acteurs><Producteur>Les Films d'Ici</Producteur></Film>
+    <Film ID="f06" Langue="fr" Affiche="https://fr.web.img3.acsta.net/medias/nmedia/00/02/53/61/affiche.jpg" Realisateur="r17" Acteur="a18 a19 a20 a21 a22 a23 a24 a25 a26"><Titre>Un monde presque paisible </Titre><Scenario>
+            <Nom>Deville</Nom>
+            <Prenom>Rosalinde</Prenom>
+        </Scenario><Scenario>
+            <Nom>Bober</Nom>
+            <Prenom>Robert</Prenom>
+        </Scenario><Genre>Comédie dramatique</Genre><Pays>France</Pays><Duree>1h33</Duree><Resume>
+            <Texte>Août 46, dans un atelier de confection pour dames, à Paris, dans le quartier des
+                tailleurs juifs. Autour de quelques machines à coudre, trois tables et des rouleaux
+                d'étoffe, entre un café, un square, une chambre d'hôtel ou un appartement soudain
+                trop grand, quatre femmes, cinq hommes et quelques enfants essaient de réapprendre à
+                vivre. Fragilisés à l'extrême mais déterminés à être là, résistants, ils font le
+                pari de la vie, avec de la fantaisie, de la légèreté. Ce sont des gens ordinaires,
+                ce sont des gens admirables. </Texte>
+        </Resume><Acteurs>
+            <Acteur ID="a18">
+                <Nom>Abkarian </Nom>
+                <Prenom>Simon</Prenom>
+            </Acteur>
+            <Acteur ID="a19">
+                <Nom>Azabal</Nom>
+                <Prenom>Lubna</Prenom>
+            </Acteur>
+            <Acteur ID="a20">
+                <Nom>Breitman</Nom>
+                <Prenom>Zabou</Prenom>
+            </Acteur>
+            <Acteur ID="a21">
+                <Nom>Courau</Nom>
+                <Prenom>Clotilde</Prenom>
+            </Acteur>
+            <Acteur ID="a22">
+                <Nom>Gayet</Nom>
+                <Prenom>Julie</Prenom>
+            </Acteur>
+            <Acteur ID="a23">
+                <Nom>Merhar</Nom>
+                <Prenom>Stanislas </Prenom>
+            </Acteur>
+            <Acteur ID="a24">
+                <Nom>Podalydès</Nom>
+                <Prenom>Denis</Prenom>
+            </Acteur>
+            <Acteur ID="a25">
+                <Nom>Elbaz</Nom>
+                <Prenom>Vincent</Prenom>
+            </Acteur>
+            <Acteur ID="a26">
+                <Nom>Zidi</Nom>
+                <Prenom>Malik</Prenom>
+            </Acteur>
+        </Acteurs><Palmares>Compétition Officielle Festival de Venise 2002</Palmares><Image>
+            <Nom>Diot</Nom>
+            <Prenom>André</Prenom>
+        </Image><Montage>
+            <Nom>Sedlackova</Nom>
+            <Prenom>Andrea</Prenom>
+        </Montage><Producteur>Elefilms. Distr</Producteur></Film>
+    <Film ID="f07" Langue="uk" Affiche="https://fr.web.img6.acsta.net/r_1920_1080/medias/nmedia/00/02/53/19/affiche.jpg" Realisateur="r18" Acteur="a27 a28 a29 a30 a31 a32"><Titre>Bloody Sunday</Titre><Scenario>
+            <Nom>Greengrass</Nom>
+            <Prenom>Paul</Prenom>
+        </Scenario><Genre>Drame</Genre><Pays>Anglo-irlandais</Pays><Duree>1h47</Duree><Resume>
+            <Texte>Le dimanche 30 janvier 1972, à Derry, en Irlande du Nord, Ivan Cooper est
+                l'organisateur d'une marche pacifique pour l'égalité des droits entre catholiques et
+                protestants, farouchement déterminés à éviter toute violence entre les différents
+                protagonistes. Mais malgré son dialogue avec les autorités unionistes et ses
+                tentatives de négociation avec les forces de l'ordre britanniques, la manifestation
+                se transforme en émeute : treize personnes sont tuées par l'armée. Cette journée,
+                désormais inscrite dans l'Histoire sous le nom de Bloody Sunday, marque le début de
+                la guerre civile. </Texte>
+        </Resume><Acteurs>
+            <Acteur ID="a27">
+                <Nom>Nesbitt</Nom>
+                <Prenom>James</Prenom>
+            </Acteur>
+            <Acteur ID="a28">
+                <Nom>Duddy</Nom>
+                <Prenom>Declan</Prenom>
+            </Acteur>
+            <Acteur ID="a29">
+                <Nom>Pigott-Smith</Nom>
+                <Prenom>Tim</Prenom>
+            </Acteur>
+            <Acteur ID="a30">
+                <Nom>Farrell</Nom>
+                <Prenom>Nicholas</Prenom>
+            </Acteur>
+            <Acteur ID="a31">
+                <Nom>McSorley</Nom>
+                <Prenom>Gerard</Prenom>
+            </Acteur>
+            <Acteur ID="a32">
+                <Nom>Clarke</Nom>
+                <Prenom>Kathy Kiera</Prenom>
+            </Acteur>
+        </Acteurs><Palmares>Ours d'or au Festival de Berlin 2002</Palmares><Image>
+            <Nom>Strasburg</Nom>
+            <Prenom>Ivan</Prenom>
+        </Image><Montage>
+            <Nom>Douglas</Nom>
+            <Prenom>Clmare</Prenom>
+        </Montage><Producteur>Granada Films/Hell's Kitchen</Producteur></Film>
+</FILMS></BASES>

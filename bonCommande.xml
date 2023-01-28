@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BonCommandes>
+    <BonCommande identifiant="BC001">
+        <Entreprise type="Emetteur">
+            <Nom>La Maison des Peintures</Nom>
+            <Adresse rue="8 rue de la Paix" cp="75000 " ville="Paris"/>
+            <Telephone> 06-11-22-33-44 </Telephone>
+            <Fax> 01-22-33-44-55 </Fax>
+        </Entreprise>
+        <Entreprise type="Recepteur">
+            <Nom>La Croix rouge</Nom>
+            <Adresse rue="18 rue de la Franchise" cp="75000" ville="Paris"/>
+            <Telephone> 06-22-33-44-55 </Telephone>
+            <Fax> 01-33-44-55-66 </Fax>
+        </Entreprise>
+        <Date jour="12" mois="12" annee="2000"/>
+        <MontantTotal>7000€</MontantTotal>
+        <Produit>
+            <Reference>PR001</Reference>
+            <Intitule>Peinture rouge</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR002</Reference>
+            <Intitule>Peinture bleue</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR003</Reference>
+            <Intitule>Peinture verte</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR004</Reference>
+            <Intitule>Peinture jaune</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR005</Reference>
+            <Intitule>Peinture violette</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR006</Reference>
+            <Intitule>Peinture noire</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR007</Reference>
+            <Intitule>Peinture cyan</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR008</Reference>
+            <Intitule>Peinture magenta</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR009</Reference>
+            <Intitule>Peinture grise</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR010</Reference>
+            <Intitule>Peinture blanche</Intitule>
+            <Quantite>10</Quantite>
+            <Prix>70€</Prix>
+        </Produit>
+    </BonCommande>
+
+    <BonCommande identifiant="BC002">
+        <Entreprise type="Emetteur">
+            <Nom>Carrefour</Nom>
+            <Adresse rue="8 rue de la carrabistouille" cp="75000 " ville="Paris"/>
+            <Telephone> 06-33-44-55-66 </Telephone>
+        </Entreprise>
+        <Entreprise type="Recepteur">
+            <Nom>Resto du coeur</Nom>
+            <Adresse rue="18 rue de l'altruisme" cp="75000" ville="Paris"/>
+            <Telephone> 06-55-66-77-88 </Telephone>
+            <Fax> 01-44-55-66-77 </Fax>
+        </Entreprise>
+        <Date jour="12" mois="12" annee="2003"/>
+        <MontantTotal>10000€</MontantTotal>
+        <Produit>
+            <Reference>PR011</Reference>
+            <Intitule>Pain</Intitule>
+            <Quantite>1000</Quantite>
+            <Prix>1€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR012</Reference>
+            <Intitule>Pâte</Intitule>
+            <Quantite>500</Quantite>
+            <Prix>2€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR013</Reference>
+            <Intitule>Riz</Intitule>
+            <Quantite>500</Quantite>
+            <Prix>2€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR014</Reference>
+            <Intitule>Poulet</Intitule>
+            <Quantite>200</Quantite>
+            <Prix>5€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR015</Reference>
+            <Intitule>Steak</Intitule>
+            <Quantite>200</Quantite>
+            <Prix>5€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR016</Reference>
+            <Intitule>Banane</Intitule>
+            <Quantite>2000</Quantite>
+            <Prix>0.5€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR017</Reference>
+            <Intitule>Sucette</Intitule>
+            <Quantite>4000</Quantite>
+            <Prix>0.25€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR018</Reference>
+            <Intitule>Jambom</Intitule>
+            <Quantite>500</Quantite>
+            <Prix>2€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR019</Reference>
+            <Intitule>Chips</Intitule>
+            <Quantite>1000</Quantite>
+            <Prix>1€</Prix>
+        </Produit>
+        <Produit>
+            <Reference>PR020</Reference>
+            <Intitule>eau</Intitule>
+            <Quantite>4000</Quantite>
+            <Prix>0.25€</Prix>
+        </Produit>
+    </BonCommande>
+
+
+
+</BonCommandes>
+
+

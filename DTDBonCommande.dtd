@@ -1,0 +1,30 @@
+<!ELEMENT BonCommandes (BonCommande*)>
+<!ELEMENT BonCommande (Entreprise, Entreprise, Date, MontantTotal, Produit+)>
+<!ATTLIST BonCommande 
+    identifiant ID #REQUIRED
+>
+<!ELEMENT Entreprise (Nom, Adresse, Telephone, Fax?)>
+<!ATTLIST Entreprise
+    type (Emetteur | Recepteur) #REQUIRED
+>
+<!ELEMENT Produit (Reference, Intitule, Quantite, Prix)>
+<!ELEMENT Date EMPTY>
+<!ATTLIST Date 
+    jour CDATA #REQUIRED
+    mois CDATA #REQUIRED
+    annee CDATA #REQUIRED
+>
+<!ELEMENT MontantTotal (#PCDATA)>
+<!ELEMENT Nom (#PCDATA)>
+<!ELEMENT Adresse EMPTY>
+<!ATTLIST Adresse 
+    rue CDATA #REQUIRED
+    cp CDATA #REQUIRED
+    ville CDATA #REQUIRED
+>
+<!ELEMENT Telephone (#PCDATA)>
+<!ELEMENT Fax (#PCDATA)>
+<!ELEMENT Reference (#PCDATA)>
+<!ELEMENT Intitule (#PCDATA)>
+<!ELEMENT Quantite (#PCDATA)>
+<!ELEMENT Prix (#PCDATA)>
